@@ -1,0 +1,23 @@
+{
+  "background": "#000000",
+  "black": "#000000",
+  "blue": "#9CD9E6",
+  "brightBlack": "#636363",
+  "brightBlue": "#9CD9E6",
+  "brightCyan": "#AEE6D6",
+  "brightGreen": "#B9D665",
+  "brightPurple": "#EBA4BE",
+  "brightRed": "#F08D49",
+  "brightWhite": "#E8E8E8",
+  "brightYellow": "#D9B98C",
+  "cursorColor": "#FAE2C8",
+  "cyan": "#AEE6D6",
+  "foreground": "#FFFFFF",
+  "green": "#B9D665",
+  "name": "Catthode",
+  "purple": "#EBA4BE",
+  "red": "#FF6B6B",
+  "selectionBackground": "#636363",
+  "white": "#B3B3B3",
+  "yellow": "#FFB86C"
+}
