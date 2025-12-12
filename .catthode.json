@@ -1,0 +1,5 @@
+{
+  "name": "Windows Terminal",
+  "icon": "fa-brands fa-windows",
+  "description": "JSON scheme for the modern Windows terminal."
+}
